@@ -1,28 +1,3 @@
-#Twitter sample code
-#https://github.com/twitterdev/Twitter-API-v2-sample-code/blob/main/Bookmarks-lookup/bookmarks_lookup.py
-
-#user's lookup
-#https://developer.twitter.com/en/docs/twitter-api/users/lookup/migrate/standard-to-twitter-api-v2
-
-#Migrating from Native Enriched data format to v2
-#https://developer.twitter.com/en/docs/twitter-api/migrate/data-formats/native-enriched-to-v2
-
-#Get a video URL from Twitter API v2
-#https://dev.to/twitterdev/get-a-video-url-from-twitter-api-v2-1713
-
-# Tweets information about flights based on their numbers.
-# https://github.com/chilipolygon/FlightTrackBot-Twitter/blob/4e7943485c2c4279f804b3d65f32687eacf7efe6/main.py#L111
-
-# A Twitter bot that tells you information about a flight by it's number or callsign.
-# https://github.com/plcnk/TwitterFlightBot
-
-# Bot de procesado de imagenes
-# https://github.com/martxelo/yolo-twitterbot/blob/main/main.py
-
-# Original reply bot code
-# https://github.com/CreepyD246/twitter-reply-bot-with-tweepy
-
-# Importing Modules/Libraries
 import tweepy
 import time
 import config
